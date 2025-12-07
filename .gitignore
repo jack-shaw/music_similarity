@@ -1,0 +1,9 @@
+# Ignore everything by default
+*
+
+# But allow these specific files
+!.gitignore
+!music_similarity_pipeline.ipynb
+!utils.py
+!requirements.txt
+
