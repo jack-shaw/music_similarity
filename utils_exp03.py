@@ -18,7 +18,6 @@ import musdb
 import gc
 
 
-# ****************************************************** MEMORY-EFFICIENT FUNCTIONS ******************************************************
 
 def load_single_track_clips(track, clip_duration=10.0, sample_rate=44100,
                             clips_per_track=1, energy_threshold_db=-40):
