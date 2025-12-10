@@ -20,8 +20,8 @@ Kelvin Bo
     Conducted experiment 1 & interpreted its results
 
 Jingkai Hu
-- Files: 
-- Contributions:
+- Files: music_sim_exp02.ipynb, utils_exp02.py & requirements.txt
+- Contribution: Wrote exlusive function for experiment 2 conducted experiment 2 & interpreted its results
 
 
 Juncheng Yu
